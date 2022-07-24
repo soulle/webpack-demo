@@ -15,5 +15,7 @@ h1 {
         display: block;
         height: 500px;
         background: url('../images/cat.jpeg');
+        display: flex;
+        justify-content: center;
     }
 }
