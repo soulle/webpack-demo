@@ -8,5 +8,8 @@ h1 {
 .container{
     &__subtitle {
         color: $secondaryColor;
+        display: block;
+        height: 833px;
+        background: url('../images/cat.jpeg');
     }
 }
